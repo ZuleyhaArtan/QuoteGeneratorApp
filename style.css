@@ -1,0 +1,29 @@
+body { 
+   font-family: "Open Sans", sans-serif;
+   background-image: url("https://img.lovepik.com/photo/50026/0596.jpg_wh860.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #444444;
+  }
+
+
+   .quote-body { 
+    margin: auto; 
+    width: 200px; 
+    height: 200px; 
+    margin-top: 150px;
+   }
+   #quote { 
+    font-size: 35px; 
+    font-weight: bold;
+    text-align:center;
+    margin-top: 250px
+   }
+   
+   .container
+   {
+     position: relative;
+     text-align: center;
+
+   }
+   
